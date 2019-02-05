@@ -1,4 +1,4 @@
-React-weather-app
+# React-weather-app
 
 To see this app in Chrome you should use Cors Toggle Plugin: [https://chrome.google.com/webstore/detail/allow-control-allow-origi/nlfbmbojpeacfghkpbjhddihlkkiljbi] to disable web security.
 
